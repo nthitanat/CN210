@@ -3,6 +3,7 @@
 ### สรุปเนื้อหา
 CPU MIPS ซึ่งเป็นหน่วยประมวลผลแบบ 32 bits มีชุดคำสั่ง 3 แบบได้แก่ 
 R-Format ใช้บวกลบเช่น add และ sub , J-Format ใช้กระโดดไปที่ address และ I-Format ใช้อ่านค่าและเก็บค่าเช่น lw sw beq โดยจะมีการทำงาน 2 แบบคือ Single Cycle, Multicycle และ Pipelining 
+    ![](mips) 
 
 #### งานครั้งที่ 1
   * [CLIP1(Youtube)](https://www.youtube.com/watch?v=XJNgUDDHLz4&t=5sk)
